@@ -1,4 +1,4 @@
-const API_KEY = 'E88C73DEFRLL3EED'; 
+const API_KEY = 'API keye belongs here lol'; 
 let myChartInstance = null; // Variable to store the chart so we can clear it
 
 // search func
@@ -75,3 +75,4 @@ document.getElementById("search-btn").onclick = searchStock;
 
 // Load Apple by default on page load
 updateChart('AAPL');
+
